@@ -1,5 +1,7 @@
 # Mexican Restaurant Ratings
 Expository Data Analysis of different Mexican restaurants and how they are being rated.
+
+
 I've gotten to a conclusion that most of the customers of a restaurants are people of the young adult age category (20 - 30yrs), single and medium budget.
 
 In this case of a Mexican restaurant, majority of these customers are students.
